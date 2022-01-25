@@ -1,4 +1,4 @@
-# titipbeliin_api
+# scarping_services
 This is a service/API for scraping data from ebay.com and amazon.com to get product names, prices and product photos with a URL.
 
 ## Usage
