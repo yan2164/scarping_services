@@ -4,7 +4,7 @@ This is a service/API for scraping data from ebay.com and amazon.com to get prod
 ## Usage
 Open the link below
 
-* https://titipbeliin-api.herokuapp.com/docs
+* https://scraping-services.herokuapp.com/docs
 
 try it out
 
